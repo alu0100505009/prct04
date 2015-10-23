@@ -8,4 +8,6 @@
 	codificamos primero en un ficheros y despues procedemos a la ejecución.
 
 
+3 - ¿Cúales son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
+	La diferencia es que el interprete ejecuta el codigo, pry va ejecutando paso a paso permitiendo hacer modificaciones.
 
