@@ -3,3 +3,9 @@
 	con diferentes gemas.
 
 
+2 - Cúles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby (ruby helloWorld.rb) y el intérprete interactivo?
+	Con el interprete interactivo intoducimos el código paso a paso viendo el resultado, mientras que con el interprete de Ruby
+	codificamos primero en un ficheros y despues procedemos a la ejecución.
+
+
+
